@@ -27,6 +27,11 @@ A concrete example is the project below: a complete multi-agent system that runs
 - **Data & cloud:** Microsoft Azure, Databricks, Microsoft Purview, Python, SQL
 - **Delivery:** solution architecture, technical pre-sales, proofs of concept, Agile
 
+## Speaking & community
+
+- Speaker at **Microsoft Build**, **Febraban Tech** and **The Developer's Conference (TDC) Brasil**
+- Technical mentor for women at the **She Hacks** hackathon at USP (2023, 2024)
+
 Most of my professional work was for enterprise clients under NDA, so it isn't public. I'm happy to walk through architecture and design decisions in a conversation.
 
 ## Contact
